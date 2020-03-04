@@ -22,6 +22,12 @@ private void start() {
 	
 	System.out.println("Valor com casas: " + valor + " | valor inteiro: " + valorComCast);
 	
+	int novoValor = 10;
+	double valorConvertido = novoValor;
+	
+	System.out.println("Novo: " + novoValor 
+			+ " | valor inteoiro: " + valorConvertido);
+
 	
 	
 }
